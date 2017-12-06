@@ -67,6 +67,20 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <Content Include="img\angularJs.JPG" />
+    <Content Include="img\binary-1892330_1280.jpg" />
+    <Content Include="img\boot.JPG" />
+    <Content Include="img\cPlusPlus.JPG" />
+    <Content Include="img\cSharp.JPG" />
+    <Content Include="img\hacking-2903156.jpg" />
+    <Content Include="img\html-2769364_640.png" />
+    <Content Include="img\javascript-736400_640.png" />
+    <Content Include="img\jquery-444684_640.png" />
+    <Content Include="img\me2.JPG" />
+    <Content Include="img\monitor-933392_1280.jpg" />
+    <Content Include="img\node-js-736399_640.png" />
+    <Content Include="index.js" />
+    <Content Include="portfolio.zip" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -75,11 +89,14 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="index.html" />
+    <Content Include="style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
